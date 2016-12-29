@@ -15,7 +15,7 @@ Changelog:
 + (Site) Implemented a button in element #1 to directly link to element #2
 + (Site) Added element #3, a 4-part picture describing the reliability of our services
 + (Site) Added footer, with copyright symbols
-
++ Created PayPal account using (owsrboost@gmail.com), with address [9628 Ryan Street Newnan, GA 30263]
 
 Needed Updates:
 - Header Title
