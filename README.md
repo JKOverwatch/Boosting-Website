@@ -1,2 +1,5 @@
-# SRBOOST Website
-The source of all the files behind the website
+# SRBoost.com
+Needed Updates:
+- Header Title
+- Title Image (Prefarably Overwatch)
+- Payment Options
