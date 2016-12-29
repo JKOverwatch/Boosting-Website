@@ -1,3 +1,2 @@
-# Main-Website
-Main Website
-To be rerouted from srboost.com
+# SRBOOST Website
+The source of all the files behind the website
