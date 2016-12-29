@@ -21,5 +21,7 @@ Needed Updates:
 - Header Title
 - Title Image (Prefarably Overwatch)
 - Payment Options
+- Set plans/Way to calculate payment based on starting SR and desired SR
 
 Known Bugs:
+- www.srboost.com does not link to the site
