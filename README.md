@@ -19,13 +19,11 @@ Changelog:
 
 12/29/16
 + (Site) Added "order now" button, with a small description 
-+ Added new repository V. 2, remaking site with our own code
++ Added new repository V2, remaking site with our own code
 + Created corresponding HTML and CSS files
 + Uploaded Java Program that Calculates the cost of specific rank boosts
 
 Needed Updates:
-- Header Title
-- Title Image 
 - Payment Options
 - Side note - What if a player pays for a 2000SR to 3000SR boost, pays, but drops to 1800SR before boost begins?
 
