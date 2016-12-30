@@ -20,12 +20,14 @@ Changelog:
 12/29/16
 + (Site) Added "order now" button, with a small description 
 + Added new repository V. 2, remaking site with our own code
++ Created corresponding HTML and CSS files
++ Uploaded Java Program that Calculates the cost of specific rank boosts
 
 Needed Updates:
 - Header Title
-- Title Image (Prefarably Overwatch)
+- Title Image 
 - Payment Options
-- Set plans/Way to calculate payment based on starting SR and desired SR
+- Side note - What if a player pays for a 2000SR to 3000SR boost, pays, but drops to 1800SR before boost begins?
 
 Known Bugs:
-- www.srboost.com does not link to the site
+- www.srboost.com does not link to the site (Occasionally)
