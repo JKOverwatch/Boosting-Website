@@ -1,6 +1,6 @@
 # SRBoost.com - Report known bugs to the README.md!
 Changelog:
-12/29/16
+12/28/16
 + Created gmail account (owsrboost@gmail.com)
 + Created github account (JKOverwatch)
 + Created "master" repository and subsequent testing/backup repositories
@@ -16,6 +16,10 @@ Changelog:
 + (Site) Added element #3, a 4-part picture describing the reliability of our services
 + (Site) Added footer, with copyright symbols
 + Created PayPal account using (owsrboost@gmail.com), with address [9628 Ryan Street Newnan, GA 30263]
+
+12/29/16
++ (Site) Added "order now" button, with a small description 
++ Added new repository V. 2, remaking site with our own code
 
 Needed Updates:
 - Header Title
