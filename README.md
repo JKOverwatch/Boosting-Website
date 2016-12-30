@@ -24,6 +24,7 @@ Changelog:
 + Uploaded Java Program that Calculates the cost of specific rank boosts
 
 Needed Updates:
+- Scheduling
 - Payment Options
 - Side note - What if a player pays for a 2000SR to 3000SR boost, pays, but drops to 1800SR before boost begins?
 
